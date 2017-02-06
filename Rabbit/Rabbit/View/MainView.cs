@@ -100,7 +100,11 @@ namespace Rabbit.View
 
         internal void CreateHabit()
         {
+            // Start creation page
+            AdditionView view = new AdditionView(A, this);
+            
             // TODO Implement creation of habits
+            C.CreateHabit();
         }
 
         // TODO Implement tracker page

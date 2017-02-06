@@ -12,6 +12,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controller\MainController.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\MainModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\AdditionView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)View\MainView.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -57,6 +57,11 @@ namespace Rabbit.Controller
         {
             return new string[0];
         }
+
+        public void CreateHabit()
+        {
+            
+        }
         #endregion
     }
 }
