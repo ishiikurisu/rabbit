@@ -5,20 +5,7 @@ namespace Rabbit.Controller
 {
     public class MainController
     {
-        // Methods
-        public MainController(MainModel m, MainView v)
-        {
-            M = m;
-            V = v;
-            V.C = this;
-        }
-
-        public MainController(MainView v, MainModel m) : this(m, v)
-        {
-
-        }
-
-        // Properties
+        #region Properties
         protected MainModel _M_ { get; set; } = null;
         public MainModel M
         {
@@ -49,5 +36,27 @@ namespace Rabbit.Controller
                 }
             }
         }
+        #endregion
+
+        #region Constructor
+        public MainController(MainModel m, MainView v)
+        {
+            M = m;
+            V = v;
+            V.C = this;
+        }
+
+        public MainController(MainView v, MainModel m) : this(m, v)
+        {
+
+        }
+        #endregion
+
+        #region Methods
+        public string[] GetHabits()
+        {
+            return new string[0];
+        }
+        #endregion
     }
 }

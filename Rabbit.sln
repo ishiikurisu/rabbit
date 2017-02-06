@@ -15,6 +15,10 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Rabbit", "Rabbit\Rabbit\Rab
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Rabbit\Rabbit\Rabbit.projitems*{07e0489e-ae7f-4c30-956e-215da2e494de}*SharedItemsImports = 4
+		Rabbit\Rabbit\Rabbit.projitems*{6b88e7cf-09f1-4b24-af79-b6c4453c763c}*SharedItemsImports = 4
+		Rabbit\Rabbit\Rabbit.projitems*{b4dbccbb-f4dc-467f-82d3-5c3d7ff021f4}*SharedItemsImports = 4
+		Rabbit\Rabbit\Rabbit.projitems*{98a1c15f-eb06-4056-b303-307d5f9cc456}*SharedItemsImports = 4
 		Rabbit\Rabbit\Rabbit.projitems*{3be62f3e-ea89-450f-ba14-bebd744bfa2a}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

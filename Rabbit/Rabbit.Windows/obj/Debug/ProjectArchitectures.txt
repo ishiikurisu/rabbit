@@ -1,0 +1,1 @@
+C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\Rabbit.Windows.csproj;neutral

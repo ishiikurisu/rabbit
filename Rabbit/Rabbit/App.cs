@@ -11,13 +11,18 @@ namespace Rabbit
 		{
             // MVC Setup
             MainModel model = new MainModel();
-            MainView view = new MainView();
+            MainView view = new MainView(this);
             MainController controller = new MainController(model, view);
 
 
             // The root page of your application
-            MainPage = view.GetMainPage();
+            view.SetMainPage();
 		}
+
+        public void SetMainPage(Page page)
+        {
+            MainPage = page;
+        }
 
 		protected override void OnStart ()
 		{

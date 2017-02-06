@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BOX</Machine>
+    <WindowsUser>cris</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6E7F698D870A9A026D22FA89C1AE5585F6D5D64813ACCB5C1269F1E4D3622C09</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_neutral__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-06T10:08:47.938</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\Rabbit.Windows.exe">
+      <PackagePath>Rabbit.Windows.exe</PackagePath>
+      <Modified>2017-02-06T10:28:17.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2017-02-05T21:00:38.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2017-02-05T21:00:38.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2017-02-05T21:00:38.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2017-02-05T21:00:38.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2017-02-05T21:00:38.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-05T21:01:58.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-05T21:01:58.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-05T21:01:58.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-05T21:01:58.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\Rabbit.Windows.xr.xml">
+      <PackagePath>Rabbit.Windows.xr.xml</PackagePath>
+      <Modified>2017-02-06T10:08:43.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-02-06T10:08:44.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-02-06T10:08:44.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2017-02-05T21:00:38.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2017-02-05T21:00:38.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2017-02-05T21:00:38.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2017-02-05T21:00:38.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2017-02-05T21:00:38.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2017-02-05T21:00:38.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2017-02-05T21:00:38.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cris\Documents\Visual Studio 2015\Projects\Rabbit\Rabbit\Rabbit.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-02-06T10:08:46.766</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
